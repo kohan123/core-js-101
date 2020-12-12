@@ -1,3 +1,4 @@
+/* eslint linebreak-style: ["error", "windows"] */
 /* *******************************************************************************************
  *                                                                                           *
  * Plese read the following tutorial before implementing tasks:                              *
